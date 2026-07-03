@@ -2,7 +2,7 @@
   <div class="container">
     <div class="footer-container">
         <div class="footer-1">
-          <a><h2 class="fufu">FufuFashion</h2></a>
+          <a><h2 class="fufu">BashoFashion</h2></a>
           <!-- <br> -->
           <p><b>ONLINE SHOPPING</b></p>
             <h6>
@@ -37,7 +37,7 @@
           <br>
         </div>
       </div>
-      <p class="copy-right"><a>FufuFashion</a>&copy;2023</p>
+      <p class="copy-right"><a>BashoFashion</a>&copy;2025</p>
   </div>
 </template>
 
